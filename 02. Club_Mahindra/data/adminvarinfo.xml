@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pagelet>
+    <DataPagelet>
+        <PageletHeader>
+            <PageletName>CLUB_MAHINDRA</PageletName>
+            <PageletDescription>CLUB_MAHINDRA</PageletDescription>
+            <PageletVersion>1.0</PageletVersion>
+        </PageletHeader>
+        <PageletBody/>
+    </DataPagelet>
+</Pagelet>

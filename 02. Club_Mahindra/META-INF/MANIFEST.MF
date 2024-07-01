@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 17.0.6+9-LTS-190 (Oracle Corporation)
+Built-By: Avaya Orchestration Designer
+Built-On: 2023-APR-06  04:59:58 PM
+dd-apptype: vxml
+dd-version-runtimeCommon: 08.11.08.01
+dd-version-runtime: 08.11.08.01
+dd-ide-version: 8.1.1.0801
+

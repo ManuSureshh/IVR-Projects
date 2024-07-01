@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "dump.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'dump.folder.path'"
+  },
+  {
+    "name": "dump.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'dump.folder.path'"
+  }
+]}

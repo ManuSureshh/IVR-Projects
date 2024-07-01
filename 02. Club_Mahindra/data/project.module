@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module category="" descriptorversion="1.0" entrypoint="CLUB_MAHINDRA/Start" forcesubdialogcall="false" frameworkversion="08.10.06.01" iconlarge="icons/defaultapplicationlg.gif" iconsmall="icons/defaultapplicationsm.gif" modifyInputs="false" modifyOutputs="false" nature="com.avaya.sce.core.speechnature" outputmultipart="false" paramasnamelist="false" provider="" submitmethod="get" version="1.0.0" webname="CLUB_MAHINDRA">
+    <description/>
+    <language name="english" root="en-us"/>
+    <language name="hindi" root="hi-in"/>
+    <dependencies>
+        <moduleref frameworkversion="08.11.08.01" name="MITDM" private="false" version="1.0.0">
+            <meta callflow-references="BookingCancel,DaysBalance,ExitMenu,LapseCheck,ManagerWaitingList,Menu1,Menu2,ModifyOrCancel,NONRMN,OTP_VERIFY,Payment,WaitingListCancel,WaitingListMod,AccountInfo,WaitingList,Offer,main"/>
+        </moduleref>
+    </dependencies>
+</module>

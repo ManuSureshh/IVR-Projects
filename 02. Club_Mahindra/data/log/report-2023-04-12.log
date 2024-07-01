@@ -1,0 +1,34 @@
+12/04/2023 12:53:18:928 ERROR - In Progress | session id:sess8808596 | CLUB_MAHINDRA:Start | null | License server URl Error :java.net.MalformedURLException | null | null | 
+12/04/2023 12:53:18:928 ERROR - ALARM | session id:sess8808596 | CLUB_MAHINDRA:Start |  | License server URl Error :java.net.MalformedURLException | null | null | 
+12/04/2023 12:54:23:072  INFO - Node Entry | session id:sess209414 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 12:54:23:241  INFO - Node Entry | session id:sess209414 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 12:57:47:509  INFO - Node Entry | session id:sess7202267 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 12:57:47:690  INFO - Node Entry | session id:sess7202267 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 13:55:40:072  INFO - Node Entry | session id:sess4363166 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 13:55:40:225  INFO - Node Entry | session id:sess4363166 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 13:56:22:875  INFO - Node Entry | session id:sess1743522 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 13:56:23:025  INFO - Node Entry | session id:sess1743522 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 13:56:38:044  INFO - Node Entry | session id:sess1743522 | CLUB_MAHINDRA:ExceptionCaught | Framework | ExceptionCaught |  |  | undefined
+12/04/2023 13:56:38:121  INFO - Node Entry | session id:sess1743522 | CLUB_MAHINDRA:Exit | Framework | Exit |  |  | undefined
+12/04/2023 13:56:38:121  INFO - Application Exit | session id:sess1743522 | CLUB_MAHINDRA:Exit | Framework | Application Exiting |  |  | undefined
+12/04/2023 13:56:48:582  INFO - Node Entry | session id:sess4848407 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 13:56:48:663  INFO - Node Entry | session id:sess4848407 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 13:59:19:647  INFO - Node Entry | session id:sess1351960 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 13:59:19:802  INFO - Node Entry | session id:sess1351960 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 13:59:34:810  INFO - Node Entry | session id:sess1351960 | CLUB_MAHINDRA:ExceptionCaught | Framework | ExceptionCaught |  |  | undefined
+12/04/2023 13:59:34:872  INFO - Node Entry | session id:sess1351960 | CLUB_MAHINDRA:Exit | Framework | Exit |  |  | undefined
+12/04/2023 13:59:34:873  INFO - Application Exit | session id:sess1351960 | CLUB_MAHINDRA:Exit | Framework | Application Exiting |  |  | undefined
+12/04/2023 14:03:12:181  INFO - Node Entry | session id:sess7069779 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 14:03:12:339  INFO - Node Entry | session id:sess7069779 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 14:03:27:348  INFO - Node Entry | session id:sess7069779 | CLUB_MAHINDRA:ExceptionCaught | Framework | ExceptionCaught |  |  | undefined
+12/04/2023 14:03:27:412  INFO - Node Entry | session id:sess7069779 | CLUB_MAHINDRA:Exit | Framework | Exit |  |  | undefined
+12/04/2023 14:03:27:413  INFO - Application Exit | session id:sess7069779 | CLUB_MAHINDRA:Exit | Framework | Application Exiting |  |  | undefined
+12/04/2023 14:03:37:355  INFO - Node Entry | session id:sess1764772 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 14:03:37:432  INFO - Node Entry | session id:sess1764772 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 14:03:52:454  INFO - Node Entry | session id:sess1764772 | CLUB_MAHINDRA:ExceptionCaught | Framework | ExceptionCaught |  |  | undefined
+12/04/2023 14:03:52:516  INFO - Node Entry | session id:sess1764772 | CLUB_MAHINDRA:Exit | Framework | Exit |  |  | undefined
+12/04/2023 14:03:52:517  INFO - Application Exit | session id:sess1764772 | CLUB_MAHINDRA:Exit | Framework | Application Exiting |  |  | undefined
+12/04/2023 14:05:21:181  INFO - Node Entry | session id:sess8732081 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 14:05:21:336  INFO - Node Entry | session id:sess8732081 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
+12/04/2023 14:17:13:885  INFO - Node Entry | session id:sess790351 | CLUB_MAHINDRA:Start | Framework | Start |  |  | 
+12/04/2023 14:17:14:041  INFO - Node Entry | session id:sess790351 | CLUB_MAHINDRA:SetProperties | Framework | SetProperties |  |  | undefined
